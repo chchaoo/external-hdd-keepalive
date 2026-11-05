@@ -13,7 +13,7 @@
 
 [English](README.md) · **简体中文**
 
-### [⬇ 下载完整工具包](https://github.com/chchaoo/external-hdd-keepalive/releases/latest)
+### [⬇ 下载工具脚本](https://github.com/chchaoo/external-hdd-keepalive/releases/latest)
 
 </div>
 
@@ -28,7 +28,7 @@
 ## 使用前
 
 - 使用 Windows，需有内置 Windows PowerShell、`powercfg`、Storage / CIM 支持；建议 Windows 10 / 11。部分驱动可能不提供设备电源接口。
-- 下载工具包并**完整解压**到有写入权限的文件夹，再运行脚本；不要直接在 ZIP 内运行。
+- 从最新 Release 下载六个 `.bat` 附件，放到同一个有写入权限的文件夹中，再运行脚本；无需解压。
 - 将待处理硬盘插好。除查看脚本外，其余脚本会申请管理员权限。
 - 修复会更改**所有电源计划**的交流 / 电池设置及可访问的匹配设备电源设置，可能增加耗电。
 

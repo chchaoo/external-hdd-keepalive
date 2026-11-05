@@ -13,7 +13,7 @@ Six Windows batch scripts to back up, inspect, fix, restore and keep drives acti
 
 **English** · [简体中文](README.zh-CN.md)
 
-### [⬇ Download the complete toolkit](https://github.com/chchaoo/external-hdd-keepalive/releases/latest)
+### [⬇ Download toolkit files](https://github.com/chchaoo/external-hdd-keepalive/releases/latest)
 
 </div>
 
@@ -28,7 +28,7 @@ Disconnects can also come from cables, power delivery, USB ports, enclosures or 
 ## Before you start
 
 - Requires Windows with built-in Windows PowerShell, `powercfg`, and Storage / CIM support. Windows 10 / 11 is recommended. Some drivers do not expose device power settings.
-- Download and **extract the complete ZIP** into a writable folder. Do not run scripts inside the ZIP.
+- Download the six `.bat` attachments from the latest Release into the same writable folder. No ZIP extraction is needed.
 - Connect the affected drive. All scripts except the viewer request administrator rights.
 - Fix changes **every power plan**, for AC and battery, plus accessible matching device power settings. This can increase power consumption.
 
